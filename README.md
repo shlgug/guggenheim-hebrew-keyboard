@@ -5,3 +5,5 @@ A Dvorak-like Hebrew keyboard layout which emulates the principles and design of
 The puncuation characters are in the same places as on the Dvorak keyboard.  The vowel associated / gutteral / tense letters are on the left side of the keyboard, similiar to the Dvorak keyboard.  The most common letters are in the home row, followed by the top row.
 
 The Mac version was created using Ukelele.
+
+The Windows version was created using Microsoft Keyboard Layout Creator.
